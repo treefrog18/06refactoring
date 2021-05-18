@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop 깃허브 업로드용 수정사항</title>
+<title>Model2 MVC Shop 깃허브 업로드용 두번째 수정사항 </title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
